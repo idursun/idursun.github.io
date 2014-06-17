@@ -1,9 +1,12 @@
 # Site settings
-title: Your awesome title
+title: Thor the mighty!
 email: ibrahim.dursun@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Personal blog"
 baseurl: ""
 url: "http://blog.idursun.com"
+twitter: idursun
+github : idursun
+username: idursun
 
 # Build settings
 markdown: kramdown
