@@ -1,7 +1,6 @@
 # Site settings
 title: Thor the mighty!
-email: ibrahim.dursun@gmail.com
-description: "Personal blog"
+description: "Notes to myself"
 baseurl: ""
 url: "http://blog.idursun.com"
 twitter: idursun
