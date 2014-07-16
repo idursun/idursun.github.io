@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding dokku configuration to a spring boot project"
-date:   2014-07-18 16:28:17
+date:   2014-07-16 16:28:17
 tags: java spring-boot dokku 
 comments: true
 ---
