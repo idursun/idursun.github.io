@@ -10,3 +10,30 @@ username: idursun
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+author:
+  name: idursun
+  github: idursun
+  twitter: idursun
+  #linkedin: asd123
+  bio: just another developer
+  email_md5: 0d75735ed1574bba97c5f58dfc0aae52
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Thor the Mighty
+
+rss_path: feed.xml
+categories_path: categories/
+tags_path: tags/
+
+BASE_PATH:
+
