@@ -6,7 +6,7 @@ tags: java spring rest
 ---
 I am not a java guy. I don't like java at all but out of curiousity I am experimenting with [Spring Framework][spring] nowadays. 
 
-I want to a single page application with a restful backend using whatever is provided by the Spring Framework. Eventually I am going to deploy it to a Linux server by using [Dokku][dokku].
+I want to create a single page application with a restful backend using whatever is provided by the Spring Framework. Eventually I am going to deploy it to a Linux server by using [Dokku][dokku].
 
 Whenever I heard the name Spring Framework I immediately thought of XML files and it made my head spin but it is not the case anymore. [Spring Boot][spring-boot] project makes it possible to kick start a project with zero XML configuration. 
 
