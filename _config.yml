@@ -3,9 +3,6 @@ title: Thor the mighty!
 description: "Notes to myself"
 baseurl: ""
 url: "http://blog.idursun.com"
-twitter: idursun
-github : idursun
-username: idursun
 
 # Build settings
 markdown: kramdown
@@ -18,18 +15,19 @@ highlighter: pygments
 markdown: kramdown
 
 author:
-  name: idursun
+  name: Thor
   github: idursun
   twitter: idursun
   #linkedin: asd123
-  bio: just another developer
+  bio: notes to myself
   email_md5: 0d75735ed1574bba97c5f58dfc0aae52
+
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Thor the Mighty
+      title: Notes To Myself
 
 rss_path: feed.xml
 categories_path: categories/
