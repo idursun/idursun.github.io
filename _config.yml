@@ -34,4 +34,4 @@ categories_path: categories/
 tags_path: tags/
 
 BASE_PATH:
-
+gems: ["jekyll-paginate"]
