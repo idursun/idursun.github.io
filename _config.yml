@@ -1,8 +1,8 @@
 # Site settings
-title: Thor the mighty!
+title: idursun.com
 description: "Notes to myself"
 baseurl: ""
-url: "http://blog.idursun.com"
+url: "http://idursun.com"
 
 # Build settings
 markdown: kramdown
