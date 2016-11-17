@@ -9,7 +9,7 @@ I am used to expecting Ctrl+C to copy selected text in Visual Studio whereas the
 
 To solve this I have added this configuration to vsvimfile.
 
-{% highlight %}
+{% highlight viml %}
 vmap <C-c> "*y
 {% endhighlight %}
 
