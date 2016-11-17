@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Configuring VsVim to be friendly with Ctrl+C in Visual Studio"
-date:   2016-07-11 10:00:00
+date:   2016-11-17 11:00:00
 tags: vsvim visual-studio
 ---
 
